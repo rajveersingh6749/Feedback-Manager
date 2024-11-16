@@ -1,1 +1,2 @@
 "# Feedback-Manager" 
+Feedback Manager is an interactive web application designed to collect, display, and manage user feedback efficiently. Users can submit feedback with hashtags to associate it with specific companies, upvote feedback items, and filter by hashtags to focus on relevant topics. The app dynamically fetches and updates feedback from a backend server, ensuring a seamless user experience. Key features include character count tracking, input validation, visual feedback indicators, and a responsive UI to expand or highlight items
